@@ -1,6 +1,6 @@
 # Amazon Clone
 
-## Brief Overview
+##  Overview
 This project is a front-end Amazon Clone built using **HTML, CSS, and Flexbox**. It replicates the layout and design of Amazon's homepage, focusing on responsiveness and a clean user interface. The project aims to provide a seamless shopping experience with an organized and interactive UI.
 
 ## Features
